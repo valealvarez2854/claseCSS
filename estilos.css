@@ -6,15 +6,13 @@ color:rgb(0, 0, 0);
 text-align:right;
 
 }
-main{
-    background-color: salmon;
-}
 header{
-    background-color: violet;
+    background-color: thistle;
 }
-
-]
+boby{
+    background-color: violet;
 }
 footer{
-    background-color: violet;
+    background-color: rosybrown;
+
 }
